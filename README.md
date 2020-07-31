@@ -1,5 +1,5 @@
 ### Hi there 👋
-[<img src="https://github.com/pr2tik1/pr2tik1/blob/master/assets/PK.gif">](https://github.com/abdullahbilalawan)
+
 
 <!--
 **abdullahbilalawan/abdullahbilalawan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
